@@ -12,9 +12,8 @@
 
 2. Lab instructions can be found in [`lab3_instructions.pdf`](lab3_instructions.pdf).
 
-3. Complete the individual lab report `lab3_individual_report.ipynb`.
+3. Complete the lab report `lab3_report.ipynb`.
 
-4. If you are in a group of more than 1, work with your group member(s) to complete the final lab report `lab3_final_report.ipynb`.
 
 ## Special Instructions
 
